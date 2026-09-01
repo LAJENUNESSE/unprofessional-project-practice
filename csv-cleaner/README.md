@@ -81,7 +81,7 @@ csv-cleaner/
 │       └── charts_panel.py  # matplotlib 图表面板
 ├── tests/                   # pytest 单元测试（19 个）
 ├── samples/                 # 示例脏数据（UTF-8 与 GBK 各一份）
-└── docs/                    # 使用说明、演示文档、项目报告、AI 使用说明、截图
+└── docs/                    # 使用说明、演示文档、分工计划、项目报告、AI 使用说明、截图
 ```
 
 ## 已知说明
