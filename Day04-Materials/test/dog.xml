@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<annotation>
+  <folder>test</folder>
+  <filename>dog.jpg</filename>
+  <path>C:\Dev\Workspace\Unprofessi_nal_project_practice\Day04-Materials\test\dog.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>768</width>
+    <height>576</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>138</xmin>
+      <ymin>228</ymin>
+      <xmax>325</xmax>
+      <ymax>558</ymax>
+    </bndbox>
+  </object>
+</annotation>

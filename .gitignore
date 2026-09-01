@@ -1,0 +1,24 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# 构建产物
+dist/
+build/
+build_smoke/
+release/
+*.spec
+
+# 密钥与环境变量
+.env
+
+# 工具配置
+.zcode/
+
+# 系统文件
+Thumbs.db
+Desktop.ini

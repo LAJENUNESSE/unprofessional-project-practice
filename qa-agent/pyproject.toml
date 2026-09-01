@@ -1,0 +1,30 @@
+[project]
+name = "qa-agent"
+version = "0.1.0"
+description = "训练任务3：基于 OpenAI Agents SDK 的简单问答智能体（对话推理 + 工具调用）"
+requires-python = ">=3.10"
+dependencies = [
+    "openai-agents>=0.3.0",
+    "ddgs>=9.0.0",
+    "httpx>=0.27.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+]
+# 可选：Tavily 官方 SDK（自行直调 Tavily 时用；智能体本身用 httpx 直调 REST，不依赖它）
+tavily = [
+    "tavily-python>=0.7.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0.0"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

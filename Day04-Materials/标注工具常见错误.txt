@@ -1,0 +1,12 @@
+- 参考1
+https://blog.csdn.net/weixin_42920869/article/details/124480238
+- 参考2
+https://www.cnblogs.com/MarsMercury/p/11237984.html
+
+pyrcc5 -o resources.py resources.qrc
+
+然后在labelImg目录下就会生成一个resources.py,再把resources.py放到 labelImg/libs里(就这一步不一样!)
+
+
+- 闪退（版本不对）
+https://blog.csdn.net/lwx666sl/article/details/135889295

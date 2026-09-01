@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='US-ASCII'?>
+<annotation>
+  <folder>test</folder>
+  <filename>person.jpg</filename>
+  <path>C:\Dev\Workspace\Unprofessi_nal_project_practice\Day04-Materials\test\person.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>640</width>
+    <height>424</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>person</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>195</xmin>
+      <ymin>95</ymin>
+      <xmax>285</xmax>
+      <ymax>378</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>58</xmin>
+      <ymin>262</ymin>
+      <xmax>205</xmax>
+      <ymax>375</ymax>
+    </bndbox>
+  </object>
+</annotation>
