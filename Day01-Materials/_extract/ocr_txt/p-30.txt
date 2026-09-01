@@ -1,0 +1,50 @@
+﻿# 提 示 词 1
+stab ] eDiffus n 是 一 款 利 用 深 度 学 习 的 文 生 图 模 型 ， 支 持 通 过 使 用 提 示 词 来 产 生 新 的 图 像 ， 描 述 要 包 含 或
+省 略 的 元 素 。
+我 在 这 里 引 Astab1eDiffusion 算 法 中 的 promptlå 念 ， 又 被 称 为 提 示 符 。
+下 面 的 prompt 是 用 来 指 导 AI 绘 画 模 型 创 作 图 像 的 。 它 们 包 含 了 图 像 的 各 种 细 节 ， 如 人 物 的 外 观 、 背 景 、 颜 色
+和 光 线 效 果 ， 以 及 图 像 的 主 题 和 风 格 。 这 些 prompt 的 格 式 经 常 包 含 括 号 内 的 加 权 数 字 ， 用 于 指 定 某 些 细 节 的 重
+要 性 或 强 调 。 例 如 ， " （ masterp 诧 （ e ： 1 巧 ） " 表 示 作 品 质 量 是 非 常 重 要 的 ， 多 个 括 号 也 有 类 似 作 用 。 此 外 ， 如
+果 使 用 中 括 号 ， 如 "{blue hair:white hair ： 0 ． 3 } 六 这 代 表 将 蓝 发 和 白 发 加 以 駐 合 ， 蓝 发 占 比 为 0 ． 3 。
+以 下 是 用 prompt 帮 助 AI 模 型 生 成 图 像 的 例 子 ： masterpiece ，
+(bestqual i (y) ， hi ghl ydetai led ， ultra-detailed ， cold ， SOIO ， (lgi (l) ， (detai ] edeyes) ，
+(shinegoldeneyes) ， (longlnverhai r) ， expressionless ， (long sleeves) ， (puffy sleeves) ，
+(white wi ngs) ， shi nehalo ， (heavymetal ： 1 ． 2 ） ， (metal j ewel (y) ， cross-lacedfootwear
+(chain) ， (Whi tedoves:1.2)
+仿 照 例 子 ， 给 出 一 套 详 细 描 述 以 下 内 容 的 prompt 。 直 接 开 始 给 出 prompt 不 需 要 用 自 然 语 言 描 述 ： 敦 煌 壁 画 跳
+舞 的 女 人
+# 提 示 词 2
+帮 我 翻 译 为 英 文
+推 荐 ：
+# M 〕 推 荐
+You wi ] ] now act as a prompt generator fO r a generative AI called
+"Midjourney"Midjourney Al generates images based on given prompts ． 工 ] ] provnde
+a concept and you ] ] provnde the prompt fO r Midjourney Al .You wi ] ] neve r alter
+the Structure and formattnng outlined bel OW i n any way and obeythe follownng
+i n any fO rm
+guide1ines:You wi ] ] not write the words "description" 0 r u S e
+Neve r place acomma between [ar] and [v] .You wi ] ] write each prompt i n one ] ] ne
+without using return,
+Structure:
+[ 1 ] ； [ [ 实 际 描 述 ] ]
+[ 2 ] = a detailed descrnptnon Of [ 1 ] that wi ] ] include ve ry specific imagery
+details
+[ 3 ] with a detailed descrnptnon describing the envi ronment of the scene.
+[ 4 ] with a detailed descrnptnon describing the mood/feelings and atmosphere
+ofthe scene.
+[ 5 ] A style ， for example: photography ， painting ， illustration ， sculpture ，
+Artworkpaperwork ， 3d and more) 。 [ 1 ]
+[ 6 ] A description Of how [ 5 ] wi ] ] be realized. (e ． g ． photography (e ． g ．
+Macro ， Fisheye Sty1e ， portrant) with came ra model and approprate camera settnngs ，
+paintingwith detailed descmptions about the materials and working maternal
+used ， renderingwith engnne settings ， a digital lllustration ， a woodbumn art (and
+everything else thatcould be defined as an output type)
+[ar]
+-ar 16 ： 9 " i f the i mage looks best horizontally ，
+-ar 9 ： 16 " f the
+-ar 1 ： 1 " f the i mage ] 00k5 best i n a square. (Use
+i mage looksbest vertncally ，
+exactl y as written)
+[v]=lf [ 5 ] ] 00k5 best i n a 〕 apanese art style u S e ，
+n 1 ] ]
+Formatt1 ng ：

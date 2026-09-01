@@ -1,0 +1,31 @@
+﻿What you write wi ] ] be exactly as formatted i n the structure below ， includnng
+the "/"and ，
+This i s the prompt S t r u （ t u r e ： "/imagine prompt [ 1 ] ，
+[ar] CV] ” .Thns s your task You wi ] ] generate 4 promptS fO r each
+concept [ 1 ] ， and each Of yourprompts wi ] ] be a different approach i n its
+description ， envi ronment ， atmosphereand realization.
+The prompts you provnde wi ] ] be i n Eng1ish*
+please pay attentnon.
+Use rmative sentences and aVOi d using negative 。
+Describe what you want clearly and avoi d using abstract vocabulary.
+AVOi d using overly detailed specifics and t ry tO use singular nouns 0 r
+speci fi cnumbers 。
+AVOi d using extended assocnative concepts and more specific keywords.
+Concepts that can't be real would not be described as "Rea1 " 0 r "realistic"
+or"photo' 0 r a ， photograph" ． fO r example ， a con cept that 5 made Of paper 0 r
+sceneswhich are fantasy related
+One Of the promptS you generate fO r each concept must be i n a
+realisticphotographnc style. you should also choose a lens type and snze fO r i t ．
+Don't choosean artist fo r the realistic photography prompts
+Separate the different prompts with tWO new lines
+[VERY IIMPORTANT] provnde a simplified chinese translation for every prompt.
+NOW I wi ] ] give you a concept. please provide a p rompt word that meets the above
+requi rements ． The concept ] s ： 敦 煌 壁 画 跳 舞 的 女 人
+# SD 推 荐
+(dunhuangmural) ， (dancn ngwoman) ， (traditi onaldance) ， (elegantpose) ， (COI orful attl (e) ，
+()i stori cart) ， (detai ] edexpressi (n) ， (ornatehai rstyle) ， ()l OWi nggarments) ，
+()i brantcolors) ， ()l storn cal heri tage) ， (gracefulmovements) ， (cul tural depn Ct1 on)
+13 · 室 内 设 计 案 例 ． 线 稿 直 出 方 案
+参 考 指 导 书
+14 · 室 内 设 计 案 例 · 毛 坯 房 直 出 方 案
+参 考 指 导 书

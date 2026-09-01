@@ -1,0 +1,35 @@
+﻿一 家 叫 Cognition 的 10 人 初 创 公 司 ， 才 成 立 不 到 2 个 月 ， 就 研 发 出 全 球 第 一 款 AI 程 序 员 Devin 。 它 可 以 掌
+握 云 端 部 署 、 底 层 代 码 、 改 bug 、 训 练 和 微 调 A 牍 型 。 这 让 身 为 程 序 员 的 我 突 然 瑟 瑟 发 抖 起 来 。 我 心
+想 ， 难 道 我 要 失 业 了 吗 ？ 忽 然 一 想 ， 哦 ， 我 去 年 就 失 业 了 ， 算 了 ， 不 害 怕 了 。
+那 么 ， A 《 程 序 员 到 底 能 不 能 写 代 码 呢 ？ 他 们 官 网 的 宣 传 片 是 否 真 实 呢 ？
+我 们 来 验 证 一 番 吧 。
+假 设 我 有 一 个 需 求 ， 那 就 是 将 一 个 张 图 片 从 中 间 劈 开 ， 看 看 AI 能 不 能 写 出 来 。
+询 问 A 呐 容 ： 请 编 写 一 段 代 码 ， 将 一 张 图 片 从 左 到 右 ， 一 分 为 二 ， 并 保 存 为 文 件 。
+from PIL import 1mage
+# 打 开 图 像 文 件
+巧 mg ． png ' # 替 换 为 你 的 图 片 文 件 路 径
+i mage—path
+i mage lmage.open(image—path)
+# 计 算 新 图 像 的 宽 度 和 高 度
+width ， height
+Ze
+new—width width / / 2
+# 将 原 始 图 像 一 分 为 过
+left—image
+image.crop((() ， 0 ， new—width ， height))
+right—image
+image.crop((new—width ， 0 ，
+width ， height))
+# 保 存 每 个 部 分 为 新 的 文 件
+left—image eft_hal f ． ')
+right—image 。 img—ri ght_half. png ')
+print （ " 图 像 分 割 完 毕 ， 左 半 部 分 保 存 为 'img—left—half.png' ， 右 半 部 分 保 存 为
+' img—ri ght—hal f 。 png ' " ）
+代 码 写 得 不 错 ， 也 有 注 释 。 下 面 ， 我 们 找 一 张 图 片 试 试 。 运 行 一 下 ， 它 做 到 了 。
+《 mg ． P 四
+img_left_half.png
+img-right_half.png
+再 来 实 验 一 个 功 能 。 假 设 老 板 让 我 写 一 个 功 能 ， 把 用 户 上 传 的 t × t 文 档 ， 转 为 ExcelF 储 。 月 仫 ， 这 个 功 能
+让 A 与 代 码 ， 效 果 会 如 何 呢 ？
+询 问 A 呐 容 ： 请 编 写 一 段 代 码 ， 读 入 一 个 txt 文 件 ， 然 后 按 行 写 入 exce l, 列 以 空 格 拆 分 。
+15 、 教 育 教 学

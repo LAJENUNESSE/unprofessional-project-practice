@@ -1,0 +1,35 @@
+﻿0 0 NFT Review
+． ） C paperdigest.org/review/
+” 凵 “ 麒 “ eRe 、 地 wl PaRr Oige ×
+豳 芒 un 准 0 吨 The NFT 锄二。m@匍碥
+Summary ofthe Related Work
+(Muthe et. al„ 冫 02m focus on using Ethereum 引 0 旧 in · 伊 and ERC ． Etrereum Request for
+Comment 1155 architecture tO build a gaming-oriented publit decentralized network. (Mamoor
+就 al„ 202 切 propose a platform for creating and playing scavenger hunt ganes using low•power
+BLE beacons. deep 位 u “ pro （ 、 (DGP) b ” № framenork 还 proposed to improve the
+accuracy Of flighttrajecto 《 WhiCh applied tO implement
+a probabilistic conflict detection ； ori 山 m (Chen et. al., 202切@ 俨 ov ` 地 r al., 202 月 study
+tokenfication 以 the potential Of non-fungible № 緶 n $ (nft) for game development. With the advent
+Of blockchain turrencies NFTs have introduced a way for investors. CO 巛 or and game
+d ： 暫 s tO purchase or 1 game art. 0 幫 ang 。 2021 ， explore the NFT e （ OS 怔 m
+sever aSpeCts. ． et. al„ 202 月 St Of interacttons
+occurring in 0 number Of NFT 戗 0 y 款 em 《 0 et. 0 202 月 present 0 te iC overview Of hOW
+the NFT ecOSystem works and (Das 玑 202 月 identify three major a00r5 ： m 訕 ke 甲
+external entities, and users. 阳 齡 et. 湖 ． ， 2 月 perform an in•depth an 圇 Of the 8
+marketplaces (ranked by transaction VO 地 n 惚 ） tO discover po n a 《 issues associated 绠 h 就 山
+marketplaces. presenting the NFT adopticn framework 俨 訕 k “ 202 刁 Offer managers
+strategies for evaluating the risks and efits 酎 N 阿 Traditional certificate verification a
+manually intensive. and someti expensive pro 鳋 ， (7-h № et. 、 20 冫 刁 propose a
+novel NFT•based certificate framework d NFTCert. which enab 《 the establishment Of links
+between a 《 timate 而 owner ' 00 ： BIockchain. The phenomenon is relevant
+tO HCI, anåg 引 gn 而 important developments future interactive products. TO better
+understand the NFT phenomenon. and to inform future HCI research 》 d design 但 ay 5 et al„
+22 》 ve ga the 5 開 kehO 《 d 鬯 rs in the NFT ecosystem and relations between them.
+Ov 《 d OGood @Average 0 Ov
+元 累 團 期 覆 ip 的
+7 · 寻 找 研 究 方 向
+对 于 学 术 新 手 而 言 ， 确 定 研 究 方 向 常 常 构 成 一 大 挑 战 。 这 主 要 归 因 于 对 学 科 内 重 要 问 题 的 不 足 理 解 ， 文
+献 审 查 的 不 全 面 ， 以 及 缺 乏 前 瞻 性 的 思 维 。 在 这 种 情 况 下 ， ChatGPT 可 亻 乍 为 一 个 有 用 的 工 具 ， 协 助 筛 选
+和 确 定 相 关 课 题 的 研 究 方 向 。
+# 提 示 词 示 例 ：
+请 为 我 推 荐 一 些 关 于 NFT 研 宄 方 向 ？

@@ -1,0 +1,43 @@
+﻿2 ， 使 用 Paper Digest 生 成 文 献 综 述 h ps ： / / ww paperdigest.org/review
+（ 1 ） 检 索 文 献 ， 生 成 文 献 综 述
+（ 2 ） 文 献 综 述 润 色
+提 示 词 示 例 ： （ NFT 相 关 的 文 件 综 述 ）
+# 提 示 词 1 ： 写 一 个 关 于 NFT 的 300 字 左 右 ， 包 含 8 个 引 用 的 文 件 综 述
+write a literature revn ew relating tO N FT n 300 wordsusing 8 citations.
+# 提 示 词 2 ：
+翻 译 为 中 文
+方 式 二 ： 使 用 paperdigest.org 网 站 搜 索 ， 然 后 会 自 动 生 成 我 文 件 综 述
+该 网 站 生 成 的 文 件 综 述 质 量 不 是 太 好 ， 可 以 使 用 ChatG PT 来 润 色 ， 润 色 完 后 生 成 的 质 量 会 好 很 多
+# 润 色 提 示 词 词 ： （ 将 以 下 的 文 字 改 写 成 学 术 规 范 的 文 献 综 述 ， 可 以 替 换 专 业 的 名 字 将 逻 辑 调 整 更 为 通 顺 ， 记
+得 保 留 所 有 的 文 献 引 用 ）
+Rewrite the follownng text intO an academic literaturereview ， which can replace
+the name Of the major and make thelogic more coherent. Remember tO keep al ]
+literature citations
+PotPlayer
+[ 5 / 1 2 ] U25 一
+献 综 述 mp4
+X ” Literatwe ReviewI Paper Dige
+． 0 0 NFTLiteratwe Review
+C @艹'di@粼．酣0雇vi“/
+色 0
+翻 Tech N LP - 0 0 e 、 ． [ 0 即 r
+0 -
+Literature Review
+Review the mostinfluential work& expertS around any topic
+ComputerScience
+卩 “ OE 00 （ 《 0 。 p “ 丫 戗 r OPastSYears @栅 1 e
+Conf Digest
+℃ （ V ． 2023
+℃ ML ． 2023
+More Conferences
+元 累 團 覆 .ip 的
+Tech AI
+Literature Re••iew
+只 M by v00u0
+Text R 貊 r
+Literature Search
+Business AI
+ExpertReview
+CliniCälTrialg
+G3vernment Grants
+《 《 e u Property

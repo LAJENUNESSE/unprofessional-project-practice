@@ -22,3 +22,12 @@ release/
 # 系统文件
 Thumbs.db
 Desktop.ini
+
+# Day01 材料数字化的中间产物（157张页面PNG体积大，OCR文本已保留）
+Day01-Materials/_extract/ocr_src/
+Day01-Materials/_extract/p*.png
+Day01-Materials/_extract/env-*.png
+Day01-Materials/Day01-Outputs/05-抽奖程序/__pycache__/
+keras_data/
+Day03-Materials/keras_data/
+Day03-Materials/scikit_learn_data/

@@ -1,0 +1,59 @@
+﻿帮 我 虚 拟 一 个 30 ． 人 的 名 单 ， 然 用 p hon 写 一 个 随 机 抽 奖 程 序 ， 带 有 U 騍 面 ， 窗 口 尺 寸 为
+当 然 可 以 ！ 首 先 ， 让 找 们 生 成 一 一 个 包 含 30 个 虚 拟 名 字 的 名 单 。 然 后 ， 我 们 将 创 建 一 个 简 单 的
+Python 程 序 ， 用 于 随 机 抽 奖 ， 并 使 用 Tkinter 库 创 建 一 一 个 基 本 的 U 騍 面 ， 窗 口 尺 寸 为
+0 凸 《
+首 先 ， 生 成 痱 拟 名 单 ：
+python
+random
+lmport
+# 6 刂 一 个 包 含 30 个 虚 拟 名 享 名 单
+names = ["A1i ℃ e" ， "Bob 六 "Char1ie "
+"Kather1ne
+" Liam"
+"Mia "
+"Uma" ， "V1ctor 。
+"Wendy"
+# 打 乱 名 单 的 顺 序
+random.shuffle( names)
+0 Copycode
+"David"
+" Noah"
+"Xander"
+"Evan
+"Frank"
+"01ivia"
+"Pene10pe ，
+矶 Emma"
+0
+" Henry
+接 下 来 ， 我们将使用Tkinter@J建一个随机抽奖的U 面 ：
+python
+tkinter as tk
+lmpolt
+from tklnter
+messagebox
+lmport
+class RandomLotteryApp
+def __init
+(se1f ， root):
+self.root = root
+self “ 。 。 t ． 巨 tle （ " 随 祖 抽 奖 " ）
+se1f.100t ． geometry(
+self. label = tk.Labe1(root ， text= ， 点 壬 抽 奖 按 开 始 抽 奖 " ）
+self ． 1abe1 ． pack(pady=20)
+self.button = tk. Button (root ，
+self.button ． pack()
+def pi ℃ k_winner(self) ：
+if 1en (names)
+0 ．
+text¯
+messagebox ． showinfo （ " 抽 奖 结 申 "
+connand=self. pick_winner)
+Regenerate
+wxnner = random ． ChOice （ names ）
+06 · 大 语 言 模 型 担 任 作 家
+问 题 1 ： 假 如 你 是 一 个 非 常 著 名 的 作 家 ， 擅 长 帮 助 名 人 物 写 传 记
+问 题 2 ： 刘 强 东 出 生 在 江 苏 的 一 个 偏 远 山 区 农 村 ， 从 小 她 努 力 学 习 ， 立 志 走 出 大 山 ， 高 考 他 以 非 常 优 异 的
+成 绩 考 上 了 中 国 人 民 大 学 ， 在 全 村 村 民 的 资 助 完 成 学 业 ， 上 学 期 间 他 努 力 学 习 ， 对 互 联 网 产 生 了 浓 厚 的
+兴 趣 ， 大 学 毕 业 后 他 做 过 很 多 职 业 ， 当 过 销 售 、 摆 过 地 摊 、 开 过 店 捕 ， 最 后 他 创 立 了 京 东 购 物 平 台 ， 经
+过 金 融 危 机 、 公 司 重 组 、 疫 清 等 重 重 考 验 ， 最 后 成 为 中 国 顶 级 电 商 平 台 ， 请 帮 他 写 一 个 自 传
