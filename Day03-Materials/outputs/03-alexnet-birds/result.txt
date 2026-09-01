@@ -1,0 +1,3 @@
+实验3 AlexNet 鸟类识别（合成数据验证）
+图片总数: 560  类别: ['Bananaquit', 'Black Skimmer', 'Black Throated Bushtiti', 'Cockatoo']
+验证集准确率: 0.7679

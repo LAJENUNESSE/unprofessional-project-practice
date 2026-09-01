@@ -31,3 +31,10 @@ Day01-Materials/Day01-Outputs/05-抽奖程序/__pycache__/
 keras_data/
 Day03-Materials/keras_data/
 Day03-Materials/scikit_learn_data/
+
+# Day03 大体积模型（AlexNet 6200万参数/车牌全连接 107M/人脸 111M），训练可复现故不入库
+Day03-Materials/outputs/01-face-olivetti/face_cnn_model.keras
+Day03-Materials/outputs/03-alexnet-birds/my_model.keras
+Day03-Materials/outputs/06-plate/plate_model.keras
+# Day03 数据集缓存（离线可重建，脚本见 experiments/*/build_*.py）
+Day03-Materials/datasets/
