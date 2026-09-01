@@ -147,7 +147,9 @@ qa-agent/
 │       ├── calculator.py      # 计算器工具（AST 安全求值）
 │       └── internet_search.py # 联网搜索（Tavily 优先 + DuckDuckGo 兜底）
 ├── tests/                     # 38 个单元测试（无需 API Key）
-├── docs/技术文档.md           # 架构、时序、设计决策与踩坑、测试设计
+├── docs/
+│   ├── 技术文档.md            # 架构、时序、设计决策与踩坑、测试设计、打包分发
+│   └── 团队分工计划.md        # 四人角色分工、Day1-7 时序、协作机制、评分对照
 ├── smoke_search.py            # 搜索通路冒烟脚本
 ├── .env.example               # 配置模板
 └── pyproject.toml             # 依赖声明（extras: dev / tavily）
